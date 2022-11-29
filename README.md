@@ -7,11 +7,17 @@ When GNS3 has been installed, add the router image and add 1 FastEthernet and 5 
 The "Slots" in GNS3 should look like this:
 
 Slot0: C7200-IO-FE
+
 Slot1: PA-FE-TX
+
 Slot2: PA-GE
+
 Slot3: PA-GE
+
 Slot4: PA-GE
+
 Slot5: PA-GE
+
 Slot6: PA-GE
 
 After this, boot up the routers (maximum of 6) wait a few seconds until their initial boot up finishes and you can start the configuration from the program
